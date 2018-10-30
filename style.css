@@ -47,5 +47,5 @@ div{
 @media (max-width: 760px) {
 	.card-responsive { width :500px; } }
 
-@media (max-width: 400px) {
-	.card-responsive { width :300px ;} }
+@media (max-width: 600px) {
+	.card-responsive { width :350px; } }
